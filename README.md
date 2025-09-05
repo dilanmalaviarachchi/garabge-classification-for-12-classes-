@@ -1,1 +1,1 @@
-# garabge-classification-for-5-classes-
+# garabge-classification-for-12-classes-
